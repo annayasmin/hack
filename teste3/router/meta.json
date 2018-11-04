@@ -1,0 +1,32 @@
+{
+  "/": {
+    "title": "Relatório Capes",
+    "description": "Relatório Capes",
+    "keywords": "relatorio, capes"
+  },
+  "/transporte-publico": {
+    "title": "Artigo Em Jornal Ou Revista",
+    "description": "",
+    "keywords": ""
+  },
+  "/artigoEmPeriodico": {
+    "title": "Artigo Em Periódico",
+    "description": "",
+    "keywords": ""
+  },
+  "/livro": {
+    "title": "Livro",
+    "description": "",
+    "keywords": ""
+  },
+  "/outro": {
+    "title": "Outro",
+    "description": "",
+    "keywords": ""
+  },
+  "/trabalhoEmAnais": {
+    "title": "Trabalho em Anais",
+    "description": "",
+    "keywords": ""
+  }
+}
